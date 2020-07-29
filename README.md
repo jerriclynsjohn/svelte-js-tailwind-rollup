@@ -1,4 +1,4 @@
-# Svelte (JS) + Tailwind + Rollup Template for Proact projects
+# Svelte (JS) + Tailwind + Rollup Template
 
 *Note that you will need to have [Node.js](https://nodejs.org) installed.*
 
