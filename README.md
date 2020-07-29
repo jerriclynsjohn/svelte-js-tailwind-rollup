@@ -1,7 +1,11 @@
 # Svelte (JS) + Tailwind + Rollup Template
 
-*Note that you will need to have [Node.js](https://nodejs.org) installed.*
+```bash
+npx degit useproact/svelte-js-tailwind-rollup my-svelte-project
+cd my-svelte-project
+```
 
+*Note that you will need to have [Node.js](https://nodejs.org) installed.*
 
 ## Get started
 
